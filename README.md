@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## I'm DogWaterDev, a pretty bad programmer from Germany. I'm currently working on learning Python and hope to learn a compiled OOP language, too!
+## I'm DogWaterDev, a pretty bad programmer from Germany. I'm currently working on learning Minecraft Plugins in Paper and just Java in general.
 ## I play a lot of games, and am open to collaboration. If you want to reach me, send me a message on discord at PotatonianDrakonian1337#2674
-
+# 🔭 I’m currently working on a plugin for Paper and a few school projects.
 
 <!--
 **DogWaterDev/DogWaterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
