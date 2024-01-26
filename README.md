@@ -3,7 +3,7 @@
 ## I'm DogWaterDev, a pretty bad programmer from Germany.
 ## I play a lot of games, and am open to collaboration. If you want to reach me, send me a message on discord at PotatonianDrakonian1337#2674
 ## 🔭 I’m currently working on a 2D game engine in Java, a compiler for my programming language, and a few school projects.
-# Reach me on discord at PotatonianDrakonian1337#2674 or join my Discord server here: https://discord.gg/zbhvruNCnG
+# Reach me on discord at PotatonianDrakonian1337 (sadly somebody removed my discriminator, the numbers are not after a #) or join my Discord server here: https://discord.gg/zbhvruNCnG
 ## Collaboration is open for DGE and JLI-C, as well as DurianCompiler (check readmes and descriptions for what they are)
 
 <!--
