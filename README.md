@@ -2,10 +2,12 @@
 
 ## I'm DogWaterDev, a pretty bad programmer from Germany.
 ## I play a lot of games, and am open to collaboration. If you want to reach me, send me a message on discord at PotatonianDrakonian1337#2674
-## 🔭 I’m currently working on a 2D game engine in Java, a compiler for my programming language, and a few school projects.
+## 🔭 Learning C and maybe game engine (again ikr, i took a extended break from the one in java), a compiler for my programming language, and a few school projects.
 # Reach me on discord at PotatonianDrakonian1337 or join my Discord server here: https://discord.gg/zbhvruNCnG
 ## Collaboration is open for DGE and JLI-C, as well as DurianCompiler (check readmes and descriptions for what they are)
+## Would also greatly appreciate some aid with my projects in C (my first non-oo language)
 
+### psst play xp-craft.mcplay.fun on minecraft
 <!--
 **DogWaterDev/DogWaterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
