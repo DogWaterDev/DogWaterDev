@@ -7,7 +7,7 @@
 ## Collaboration is open for DGE and JLI-C, as well as DurianCompiler (check readmes and descriptions for what they are)
 ## Would also greatly appreciate some aid with my projects in C (my first non-oo language)
 
-### psst play xp-craft.mcplay.fun on minecraft
+### psst play xp-craft.de on minecraft
 <!--
 **DogWaterDev/DogWaterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
