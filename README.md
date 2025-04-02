@@ -7,9 +7,7 @@
 ## Collaboration is open for all of my projects
 ## Would also greatly appreciate some aid with my projects in C (my first non-oo language)
 
-<img src="
-https://github-readme-stats.vercel.app/api/top-langs/?username=DogWaterDev&theme=prussian&show_icons=true&hide_border=true&layout=compact
-"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelninder&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 
 <!--
 **DogWaterDev/DogWaterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
